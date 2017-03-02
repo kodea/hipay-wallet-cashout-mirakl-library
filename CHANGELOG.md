@@ -5,7 +5,7 @@
 - Fix Customize the error level for wich emails should be sent
 - Fix Error 401 in create account function
 - Fix Error in vendor wallet list command
-- Fix Error in transfert function
+- Fix Error in transfer function
 
 # Version 2.4.2
 # Version 2.4.1
